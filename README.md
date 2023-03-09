@@ -3,7 +3,7 @@ This codebase provides a Pytorch implementation for the AAAI 2023 Oral paper:
 
 > Soumya Suvra Ghosal, and Yixuan Li
 >
-> [Distributionally Robust Optimization with Probabilistic Group](https://arxiv.org/abs/1911.08731)
+> [Distributionally Robust Optimization with Probabilistic Group]()
 
 The experiments use the following image-classification datasets:
 - [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
