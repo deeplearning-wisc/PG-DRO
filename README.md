@@ -36,5 +36,12 @@ The codebase is adapted from [GDRO](https://github.com/kohpangwei/group_DRO).
 ## For bibtex citation 
 
 ```
-
+@misc{ghosal2023distributionally,
+      title={Distributionally Robust Optimization with Probabilistic Group}, 
+      author={Soumya Suvra Ghosal and Yixuan Li},
+      year={2023},
+      eprint={2303.05809},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
 ```
