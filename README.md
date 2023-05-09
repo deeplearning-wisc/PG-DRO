@@ -42,7 +42,6 @@ After training the model, we use the best saved model to generate the group prob
 
 `python run_expt.py -s confounder -d CUB -t waterbird_complete95 -c forest2water2 --lr 1e-05 --batch_size 128 --weight_decay 1 --model resnet50 --n_epochs 300 --reweight_groups --robust --gamma 0.1 --generalization_adjustment 2 --allow_test --pseudo_label pseudo_waterbirds_valfrac_1` -->
 
-###CODE TO TRAIN TO BE ADDED SOON.
   
 ## References
 The codebase is adapted from [GDRO](https://github.com/kohpangwei/group_DRO).
